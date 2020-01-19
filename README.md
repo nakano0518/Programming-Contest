@@ -1,0 +1,1 @@
+Traning for programing contest
