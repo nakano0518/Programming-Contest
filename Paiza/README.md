@@ -12,9 +12,9 @@ C051/C016
 ・HashMapなど基本文法で弱いところある⇒文法要復習
 
 ### 20200121 answeing paiza's question  
-D120/D014/D024/D115/D047/D027/D012/D031
-C019/C056
-⇒Rank C, Rating 1470±100, max Rating 1588   
+D120/D014/D024/D115/D047/D027/D012/D031  
+C019/C056  
+⇒Rank C, Rating 1470±100, max Rating 1588     
 
 気づき：  
 ・D問題はウォーミングアップ的に使う  
