@@ -48,3 +48,6 @@ class BinSearch {
         }
     }
 }
+
+//ちなみに、javaは2分探索を行うメソッドを持つクラスを標準ライブラリとして提供している。
+//java.util.Arraysクラスのstatic int binarySearch(Object[] a, Object key)メソッド。
