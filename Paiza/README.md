@@ -19,9 +19,9 @@ C019/C056
 ・D問題はウォーミングアップ的に使う  
 
 ### 20200121 answeing paiza's question  
-D038/D048/D077/D008/D009/D016/D110/D60
-C024
-⇒Rank C, Rating 1470±100, max Rating 1588     
+D038/D048/D077/D008/D009/D016/D110/D60  
+C024  
+⇒Rank C, Rating 1463±100, max Rating 1588      
 気づき：  
 ・ネトゲなので時間決めて行う  
 ・型変換、文字列操作  
