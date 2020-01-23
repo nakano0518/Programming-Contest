@@ -18,7 +18,7 @@ C019/C056
 notice：  
 ・D問題はウォーミングアップ的に使う  
 
-### 20200121 answeing paiza's question  
+### 20200122 answeing paiza's question  
 D038/D048/D077/D008/D009/D016/D110/D60  
 C024  
 ⇒Rank C, Rating 1463±100, max Rating 1588      
@@ -26,7 +26,7 @@ notice：
 ・ネトゲなので時間決めて行う  
 ・型変換、文字列操作  
 
-### 20200122 answeing paiza's question  
+### 20200123 answeing paiza's question  
 D135/D095/D088/D052/D070/D019  
 C074  
 ⇒Rank C, Rating 1452±100, max Rating 1588      
