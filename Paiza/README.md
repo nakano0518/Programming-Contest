@@ -34,3 +34,12 @@ noteice：
 ・入力が複数の文字列であるとき、文字列単位で出力してみるとよい。確認のため。  
 ⇒ Scanner sc = new java.util.Scanner(System.in);String S = sc.nextLine();System.out.println(S);  
 
+### 20200124 answeing paiza's question  
+D146/D102/D028    
+C055/C067      
+⇒Rank C, Rating 1416±100, max Rating 1588        
+noteice：  
+・標準入力で時間かかるのもったいない。  
+・length()とlength  
+・文字列比較はequals()  
+
