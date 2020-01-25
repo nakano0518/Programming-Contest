@@ -43,3 +43,11 @@ noteice：
 ・length()とlength  
 ・文字列比較はequals()  
 
+### 20200125 answeing paiza's question  
+D042/D081/D016      
+C070/C034  
+B021
+⇒Rank C⇒B, Rating 1391±100, max Rating 1588        
+noteice：  
+・char型からint型変換：Character.getNumericValue(c);//cはchar型の変数  
+
