@@ -1,4 +1,4 @@
-//線形リストのクラスを定義
+//ポインタによる線形リスト
 
 import.java.util.Comparator;
 
@@ -65,7 +65,76 @@ public class LinkedList<E> {//データの型Eはジェネリクス。利用す�
     //末尾ノードの削除
     pubic void removeLast() {
         if(head != null) {
-            
+            if(head.next == null){//ノードが一つだけであれば
+                removeFirst();//先頭ノードを削除
+            }else {
+                Node<E> ptr = head;//走査中のノード
+                Node<E> pre = head;//走査中のノードの先行ノード
+                while(ptr.next != null) {
+                    pre = ptr;
+                    ptr = ptr.next;
+                }//while終了時、ptrは末端ノード、preは末端から2番目のノード
+                pre.next = null;
+                crnt = pre;
+            }
+        
+        }
+    }
+    
+    //ノードp(任意のノード)の削除
+    public void remove(Node p) {
+        if(head != null) {
+            if(p == head) {//pが先頭ノードの場合
+                removeFirst();//先頭ノードを削除
+            }else {
+                Node<E> = ptr = head;
+                while(ptr.next != p) {//ptr.nextとptrが等しくなるまで走査
+                    ptr = ptr.next;
+                    if(ptr == null) return;//末端ノードまで走査したらメソッド自体終了
+                }
+                ptr.next = p.next;
+                crnt = ptr;
+            }
+        }
+    }
+    
+    //着目ノードを削除
+    public void removeCurrentNode() {
+        remove(crnt);
+    }
+    
+    //全ノードの削除
+    publiv void clear() {
+        while(head != null) {
+            removeFirst();
+        }
+        crnt = null;
+    }
+    
+    //着目ノードを一つ後方へ進める
+    public boolean next() {
+        if(crnt == null || crnt.next == null) {
+            return false;
+        }
+        crnt = crnt.next;
+        return true;
+    }
+    
+    //着目ノードを表示
+    public void printCurrent() {
+        if(crnt == null) {
+            System.println("着目ノードはありません。");
+        }else{
+            System.println(crnt.data);
+        }
+    }
+    
+    //全ノードを表示
+    public void dump() {
+        Node<E> ptr = head;
+        while(ptr != null) {
+            System.out.println(ptr.data);
+            ptr = ptr.next;
         }
     }
 }
