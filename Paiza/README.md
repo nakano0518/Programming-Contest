@@ -7,7 +7,6 @@ C051/C016
 ⇒Rank D→C, Rating 1439±100, max Rating 1588    
 notice：  
 ・まず標準入力で詰まらないようにする  
-・next()かnextLine()か  
 ・基本のアルゴリズムはメソッド化し蓄積しておくべき  
 ・HashMapなど基本文法で弱いところある⇒文法要復習
 
@@ -50,4 +49,22 @@ B021
 ⇒Rank C→B, Rating 1391±100, max Rating 1588        
 noteice：  
 ・char型からint型変換：Character.getNumericValue(c); //cはchar型の変数  
+
+### 20200126 answeing paiza's question  
+C049/C035
+B021  
+⇒Rank B, Rating 1391±100, max Rating 1588        
+noteice：  
+・String型を半角スペースで分割し配列化：String型変数.split(" ");  
+・next()かnextLine()か:入力例において、  
+1行あたり1単語与えられた場合next()、1行当たり半角スペースで区切り複数単語与えられた場合、nextLine()
+★配列の場合の標準入力→コピペで対応(時間節約のため)    
+Scanner sc = new Scanner(System.in);  
+int N = sc.nextInt();//与要素数  
+String[] s = new String[N];  
+for(int i = 0; i < N; i++) {//iの範囲は出題に合わせる  
+    s[i] = sc.next();//あるいはnextLine()  
+    System.out.println(s[i]);//入力例と同じか確認→確認後コメントアウト    
+}  
+
 
