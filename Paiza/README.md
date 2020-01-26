@@ -57,7 +57,7 @@ B021
 noteice：  
 ・String型を半角スペースで分割し配列化：String型変数.split(" ");  
 ・next()かnextLine()か:入力例において、  
-1行あたり1単語与えられた場合next()、1行当たり半角スペースで区切り複数単語与えられた場合、nextLine()
+1行あたり1単語与えられた場合next()、1行当たり半角スペースで区切り複数単語与えられた場合、nextLine()  
 ★配列の場合の標準入力→コピペで対応(時間節約のため)    
 Scanner sc = new Scanner(System.in);  
 int N = sc.nextInt();//与要素数  
