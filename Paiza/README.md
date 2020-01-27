@@ -68,8 +68,8 @@ for(int i = 0; i < N; i++) {//iの範囲は出題に合わせる
 }  
 
 ### 20200127 answeing paiza's question  
-D111/D112/D056/D123
-C061  
+D111/D112/D056/D123  
+C061    
 ⇒Rank B, Rating 1400±100, max Rating 1588        
 noteice：  
 ・わからない場合、具体例(入力例)を用いて流れを書いてみる    
