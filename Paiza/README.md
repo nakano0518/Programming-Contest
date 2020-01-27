@@ -67,4 +67,14 @@ for(int i = 0; i < N; i++) {//iの範囲は出題に合わせる
     System.out.println(s[i]);//入力例と同じか確認→確認後コメントアウト    
 }  
 
+### 20200127 answeing paiza's question  
+D111/D112/D056/D123
+C061  
+⇒Rank B, Rating 1400±100, max Rating 1588        
+noteice：  
+・わからない場合、具体例(入力例)を用いて流れを書いてみる    
+→ 抽象化(標準入力の変数で置き換える)    
+・数値型から文字列変換  
+→ String.valueOf(int n)  
+
 
