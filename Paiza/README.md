@@ -79,7 +79,8 @@ noteice：
 
 ### 20200128 answeing paiza's question  
 A031
-⇒Rank B, Rating 1400±100, max Rating 1588        
-noteice：  
+⇒Rank B, Rating 1396±100, max Rating 1588        
+noteice：
+・Math.pow(基数, 乗数);
 
 
