@@ -77,4 +77,9 @@ noteice：
 ・数値型から文字列変換  
 → String.valueOf(int n)  
 
+### 20200128 answeing paiza's question  
+A031
+⇒Rank B, Rating 1400±100, max Rating 1588        
+noteice：  
+
 
