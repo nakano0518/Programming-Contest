@@ -78,9 +78,16 @@ noteice：
 → String.valueOf(int n)  
 
 ### 20200128 answeing paiza's question  
-A031
-⇒Rank B, Rating 1396±100, max Rating 1588        
-noteice：
-・Math.pow(基数, 乗数);
+A031  
+⇒Rank B, Rating 1396±100, max Rating 1588          
+noteice：  
+・Math.pow(基数, 乗数);  
+
+### 20200129 answeing paiza's question  
+C058/C048    
+⇒Rank B, Rating 1479±100, max Rating 1588          
+noteice：  
+・AやB問題を解いてからC問題解くと解くスピードが上がることを実感  
+→ レベルの高い問題を解く時間を作る。  
 
 
