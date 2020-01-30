@@ -90,4 +90,14 @@ noteice：
 ・AやB問題を解いてからC問題解くと解くスピードが上がることを実感  
 → レベルの高い問題を解く時間を作る。  
 
-
+### 20200130 answeing paiza's question  
+C022/C064      
+⇒Rank B, Rating 1439±100, max Rating 1588            
+noteice：    
+・int n = Math.max(int a, int b); //aとbのmax値  
+・int n = Math.min(int a, int b); //aとbのmin値  
+・double n = Math.floor(double a); //aの小数切り捨て  
+・double n = Math.ceil(double a); //aの小数切り上げ  
+・テストケースが1,2個通らないことがある。原因としてはコードがきれいではない。  
+コードをもっときれいに書けるように経験を積む。常にできるだけきれいなコードを書くよう意識。  
+狙われそうなテストケースを自分で書いて試せればいい。テストの知識必要か。
