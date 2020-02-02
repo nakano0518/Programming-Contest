@@ -109,3 +109,7 @@ D136/D126/D099
 ### 20200201 answeing paiza's question     
 D107/D137/D067  
 ⇒Rank B, Rating 1462±100, max Rating 1588   
+
+### 20200202 answeing paiza's question     
+C075      
+⇒Rank B, Rating 1482±100, max Rating 1588   
