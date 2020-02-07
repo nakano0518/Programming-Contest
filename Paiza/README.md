@@ -127,5 +127,9 @@ D041
 ⇒Rank B, Rating 1485±100, max Rating 1588   
 
 ### 20200206 answeing paiza's question     
-D091                
-⇒Rank B, Rating 1485±100, max Rating 1588   
+D091  
+⇒Rank B, Rating 1492±100, max Rating 1588 
+
+### 20200207 answeing paiza's question     
+D147   
+⇒Rank B, Rating 1505±100, max Rating 1588   
