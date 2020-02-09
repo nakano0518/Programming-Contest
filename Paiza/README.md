@@ -134,6 +134,13 @@ D091
 D147   
 ⇒Rank B, Rating 1505±100, max Rating 1588   
 
-### 20200207 answeing paiza's question     
+### 20200208 answeing paiza's question     
 D105     
 ⇒Rank B, Rating 1505±100, max Rating 1588   
+
+### 20200209 answeing paiza's question     
+D103       
+⇒Rank B, Rating 1505±100, max Rating 1588   
+
+
+
