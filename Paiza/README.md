@@ -143,8 +143,8 @@ D103
 ⇒Rank B, Rating 1430±100, max Rating 1588   
 
 ### 20200210 answeing paiza's question     
-D36       
-⇒Rank B, Rating 1460±100, max Rating 1588  
+D036, D132, D043, D032         
+⇒Rank B, Rating 1473±100, max Rating 1588  
 notice:  
 s.replaceAll("変換前文字列",　"変換後文字列")　//文字列置き換えすべて(sはString型の変換する文字列)  
 
