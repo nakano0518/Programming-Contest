@@ -136,11 +136,17 @@ D147
 
 ### 20200208 answeing paiza's question     
 D105     
-⇒Rank B, Rating 1505±100, max Rating 1588   
+⇒Rank B, Rating 1513±100, max Rating 1588   
 
 ### 20200209 answeing paiza's question     
 D103       
-⇒Rank B, Rating 1505±100, max Rating 1588   
+⇒Rank B, Rating 1430±100, max Rating 1588   
+
+### 20200210 answeing paiza's question     
+D36       
+⇒Rank B, Rating 1460±100, max Rating 1588  
+notice:  
+s.replaceAll("変換前文字列",　"変換後文字列")　//文字列置き換えすべて(sはString型の変換する文字列)  
 
 
 
