@@ -148,5 +148,7 @@ D036, D132, D043, D032
 notice:  
 s.replaceAll("変換前文字列",　"変換後文字列")　//文字列置き換えすべて(sはString型の変換する文字列)  
 
-
+### 20200211 answeing paiza's question     
+D118           
+⇒Rank B, Rating 1478±100, max Rating 1588  
 
