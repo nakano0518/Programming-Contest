@@ -152,3 +152,7 @@ s.replaceAll("変換前文字列",　"変換後文字列")　//文字列置き�
 D118           
 ⇒Rank B, Rating 1478±100, max Rating 1588  
 
+### 20200212 answeing paiza's question     
+D104             
+⇒Rank B, Rating 1478±100, max Rating 1588  
+
