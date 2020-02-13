@@ -154,5 +154,10 @@ D118
 
 ### 20200212 answeing paiza's question     
 D104             
-⇒Rank B, Rating 1478±100, max Rating 1588  
+⇒Rank B, Rating 1487±100, max Rating 1588  
 
+### 20200213 answeing paiza's question     
+D121               
+⇒Rank B, Rating 1493±100, max Rating 1588   
+notice:
+s.contains("文字列") //文字列を含む(boolean)  
