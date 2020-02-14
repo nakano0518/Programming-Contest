@@ -161,3 +161,7 @@ D121
 ⇒Rank B, Rating 1493±100, max Rating 1588   
 notice:
 s.contains("文字列") //文字列を含む(boolean)  
+
+### 20200213 answeing paiza's question     
+D045                 
+⇒Rank B, Rating 1494±100, max Rating 1588    
