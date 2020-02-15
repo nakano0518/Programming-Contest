@@ -162,6 +162,10 @@ D121
 notice:
 s.contains("文字列") //文字列を含む(boolean)  
 
-### 20200213 answeing paiza's question     
+### 20200214 answeing paiza's question     
 D045                 
 ⇒Rank B, Rating 1494±100, max Rating 1588    
+
+### 20200215 answeing paiza's question     
+D057                 
+⇒Rank B, Rating 1500±100, max Rating 1588    
