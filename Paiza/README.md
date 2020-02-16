@@ -168,4 +168,8 @@ D045
 
 ### 20200215 answeing paiza's question     
 D057                 
-⇒Rank B, Rating 1500±100, max Rating 1588    
+⇒Rank B, Rating 1500±100, max Rating 1588  
+
+### 20200216 answeing paiza's question     
+D021                   
+⇒Rank B, Rating 1506±100, max Rating 1588 
