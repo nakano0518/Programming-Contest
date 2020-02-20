@@ -180,12 +180,15 @@ D013
 
 ### 20200218 answeing paiza's question     
 D015                         
-⇒Rank B, Rating 1509±100, max Rating 1588 
+⇒Rank B, Rating 1511±100, max Rating 1588 
 
 ### 20200219 answeing paiza's question     
 D097                           
-⇒Rank B, Rating 1509±100, max Rating 1588 
+⇒Rank B, Rating 1517±100, max Rating 1588   
+notice:  
+・char型から文字列変換  
+→　String.valueOf(char c);  
 
 ### 20200220 answeing paiza's question     
 D039                             
-⇒Rank B, Rating 1509±100, max Rating 1588 
+⇒Rank B, Rating 1521±100, max Rating 1588 
