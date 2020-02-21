@@ -191,4 +191,8 @@ notice:
 
 ### 20200220 answeing paiza's question     
 D039                             
-⇒Rank B, Rating 1521±100, max Rating 1588 
+⇒Rank B, Rating 1521±100, max Rating 1588   
+
+### 20200221 answeing paiza's question     
+D145                               
+⇒Rank B, Rating 1524±100, max Rating 1588 
