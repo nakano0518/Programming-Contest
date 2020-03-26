@@ -263,4 +263,4 @@ D150
 
 ### 20200325 answeing paiza's question     
 D108                                                 
-⇒Rank B, Rating 1560±100, max Rating 1588 
+⇒Rank B, Rating 1564±100, max Rating 1588 
