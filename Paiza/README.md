@@ -280,3 +280,7 @@ D054
 ### 20200402 answeing paiza's question     
 D025                                                        
 ⇒Rank B, Rating 1531±100, max Rating 1588 
+
+### 20200402 answeing paiza's question     
+D151                                                         
+⇒Rank B, Rating 1531±100, max Rating 1588 
