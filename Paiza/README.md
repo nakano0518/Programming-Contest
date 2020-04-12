@@ -284,3 +284,7 @@ D025
 ### 20200402 answeing paiza's question     
 D151                                                         
 ⇒Rank B, Rating 1535±100, max Rating 1588 
+
+### 20200412 answeing paiza's question     
+D144                                                          
+⇒Rank B, Rating 1490±100, max Rating 1588 
