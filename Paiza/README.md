@@ -1,4 +1,4 @@
-# paiza's ToDoList  
+# paiza's answered List  
 ## answer by Java
 
 ### 20200120 answeing paiza's question  
@@ -288,3 +288,9 @@ D151
 ### 20200412 answeing paiza's question     
 D144                                                          
 ⇒Rank B, Rating 1490±100, max Rating 1588 
+
+## answer by C++  
+
+### 20200507 answeing paiza's question     
+D154                                                          
+⇒Rank B, Rating 1493±100, max Rating 1588 
