@@ -301,4 +301,10 @@ D158
 
 ### 20200509 answeing paiza's question     
 C078                                                            
-⇒Rank B, Rating 1523±100, max Rating 1588 
+⇒Rank B, Rating 1523±100, max Rating 1588   
+
+### 20200510 answeing paiza's question     
+C077                                                            
+⇒Rank B, Rating 1550±100, max Rating 1588 
+
+
