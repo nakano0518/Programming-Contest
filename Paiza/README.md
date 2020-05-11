@@ -307,4 +307,6 @@ C078
 C077                                                            
 ⇒Rank B, Rating 1550±100, max Rating 1588 
 
-
+### 20200511 answeing paiza's question     
+C017                                                              
+⇒Rank B, Rating 1564±100, max Rating 1588 
