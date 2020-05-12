@@ -316,5 +316,6 @@ C037
 ⇒Rank B, Rating 1551±100, max Rating 1588 
 notice:  
 ・char型からintへの変換  
-(例) char c = '1'のint型への変換
-     int i = (int)(c -'0');
+(例) char c = '1'のint型への変換  
+     int i = (int)(c -'0');  
+     ASCIIコード表の48～57は文字の‘0’～’9′に対応。これを利用して変換
