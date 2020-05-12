@@ -308,5 +308,13 @@ C077
 ⇒Rank B, Rating 1550±100, max Rating 1588 
 
 ### 20200511 answeing paiza's question     
-C017                                                              
-⇒Rank B, Rating 1564±100, max Rating 1588 
+C017                                                                
+⇒Rank B, Rating 1564±100, max Rating 1588   
+
+### 20200512 answeing paiza's question     
+C037                                                                
+⇒Rank B, Rating 1551±100, max Rating 1588 
+notice:  
+・char型からintへの変換  
+(例) char c = '1'のint型への変換
+     int i = (int)(c -'0');
