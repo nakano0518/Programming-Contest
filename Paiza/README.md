@@ -318,4 +318,8 @@ notice:
 ・char型からintへの変換  
 (例) char c = '1' のint 型への変換  
      int i = (int)(c -'0');  
-     ※ ASCIIコード表の48～57は文字の‘0’～’9′に対応。これを利用して変換。
+     ※ ASCIIコード表の48～57は文字の‘0’～’9′に対応。これを利用して変換。  
+
+### 20200513 answeing paiza's question     
+C128                                                                  
+⇒Rank B, Rating 1559±100, max Rating 1588   
