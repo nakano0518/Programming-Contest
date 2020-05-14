@@ -6,15 +6,22 @@ int main() {
     cin >> A >> B >> C >> K;
     
     if(K <= A + B) {
-        cout << A << endl;
+        //KはAとBの変数に依存するのでさらにAで場合分けする
+        if(K < A) {
+            cout << K << endl;    
+        }
+        if(K >= A) {
+            cout << A << endl;
+        }
+        
     }else {
         cout << A - (K-A-B) << endl;
     }
 }
 
-//上記ではテストケース通らず。
 
-/*
+
+/* 別解
 #include <bits/stdc++.h>
 #define rep(i,n) for (int i = 0; i < (n); ++i)
 using namespace std;
