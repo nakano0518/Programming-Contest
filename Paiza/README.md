@@ -325,5 +325,9 @@ C128
 ⇒Rank B, Rating 1559±100, max Rating 1588  
 
 ### 20200514 answeing paiza's question     
-C127                                                                    
+C127, A024(×)                                                                    
 ⇒Rank B, Rating 1567±100, max Rating 1588  
+
+### 20200515 answeing paiza's question     
+C028                                                                      
+⇒Rank B, Rating 1593±100, max Rating 1593    
