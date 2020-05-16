@@ -331,3 +331,7 @@ C127, A024(×)
 ### 20200515 answeing paiza's question     
 C028                                                                      
 ⇒Rank B, Rating 1593±100, max Rating 1593    
+
+### 20200516 answeing paiza's question     
+C036                                                                      
+⇒Rank B, Rating 1583±100, max Rating 1593    
