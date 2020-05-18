@@ -15,3 +15,6 @@ int main() {
         cout << ans << "..." << endl;
     }
 }
+
+// S.size() > K の場合、S = S.substr(0, K) + "..." とすると短く書けるので、
+// ★ S.substr(0,K) を覚えておく。
