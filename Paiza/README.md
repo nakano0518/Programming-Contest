@@ -350,4 +350,14 @@ D065
 
 ### 20200520 answeing paiza's question     
 D046                                                                    
-⇒Rank B, Rating 1606±100, max Rating 1606  
+⇒Rank B, Rating 1606±100, max Rating 1606    
+note:  
+C++にはcontains()メソッドは存在しない  
+⇒ find関数の返り値を判定することで実装する
+s.find('noaki')の返り値
+sの文字列にnoakiが存在⇒ 出現位置を返す  
+sの文字列にnoakiが存在しない⇒std::string::nposを返す   
+★「含む」を判定するとは、
+if(s.find("noaki") != std::string::npos) {
+    //含む場合の処理    
+}  
