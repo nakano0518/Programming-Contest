@@ -363,5 +363,10 @@ if(s.find("noaki") != std::string::npos) {
 }  
 
 ### 20200521 answeing paiza's question     
-D078                                                                      
-⇒Rank B, Rating 1611±100, max Rating 1611   
+D078, D074 , C053                                                                    
+⇒Rank B, Rating 1656±100, max Rating 1656   
+notice:  
+★ stoi(s)でs(string型変数)をint型に変換。s(tring) to i(nt)。    
+★ ソート：sort(A.begin(), A.end());  #include <algorithm> で利用可能。Aはarrayあるいはstring。  
+
+
