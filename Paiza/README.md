@@ -361,3 +361,7 @@ s.find('noaki')の返り値
 if(s.find("noaki") != std::string::npos) {  
     //含む場合の処理      
 }  
+
+### 20200521 answeing paiza's question     
+D078                                                                      
+⇒Rank B, Rating 1611±100, max Rating 1611   
