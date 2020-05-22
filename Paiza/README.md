@@ -369,4 +369,8 @@ notice:
 ★ stoi(s)でs(string型変数)をint型に変換。s(tring) to i(nt)。    
 ★ ソート：sort(A.begin(), A.end());  algorithmをincludeすることで利用可能。Aはarrayあるいはstring。  
 
+### 20200521 answeing paiza's question     
+D134                                                                      
+⇒Rank B, Rating 1662±100, max Rating 1662   
+
 
