@@ -381,5 +381,7 @@ note:
 (coutだと小数点6桁までしか表示できないことも覚えておく)　　
 printf("%.桁数f", ans);  
 
-
+### 20200524 answeing paiza's question     
+D069                                                                        
+⇒Rank B, Rating 1669±100, max Rating 1669   
 
