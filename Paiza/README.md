@@ -365,12 +365,21 @@ if(s.find("noaki") != std::string::npos) {
 ### 20200521 answeing paiza's question     
 D078, D074 , C053                                                                    
 ⇒Rank B, Rating 1656±100, max Rating 1656   
-notice:  
+note:    
 ★ stoi(s)でs(string型変数)をint型に変換。s(tring) to i(nt)。    
 ★ ソート：sort(A.begin(), A.end());  algorithmをincludeすることで利用可能。Aはarrayあるいはstring。  
 
-### 20200521 answeing paiza's question     
+### 20200522 answeing paiza's question     
 D134                                                                      
 ⇒Rank B, Rating 1662±100, max Rating 1662   
+
+### 20200523 answeing paiza's question     
+D069                                                                        
+⇒Rank B, Rating 1669±100, max Rating 1669   
+note:  
+★ansを小数点○桁まで表示  
+(coutだと小数点6桁までしか表示できないことも覚えておく)　　
+printf("%.桁数f", ans);  
+
 
 
