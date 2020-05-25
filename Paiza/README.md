@@ -385,3 +385,7 @@ printf("%.桁数f", ans);
 D046                                                                          
 ⇒Rank B, Rating 1671±100, max Rating 1671   
 
+### 20200525 answeing paiza's question     
+D034                                                                          
+⇒Rank B, Rating 1675±100, max Rating 1675   
+
