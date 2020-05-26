@@ -389,3 +389,6 @@ D046
 D034                                                                          
 ⇒Rank B, Rating 1675±100, max Rating 1675   
 
+### 20200526 answeing paiza's question     
+D051                                                                            
+⇒Rank B, Rating 1679±100, max Rating 1679     
