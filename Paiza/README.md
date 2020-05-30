@@ -404,3 +404,14 @@ D061
 ### 20200529 answeing paiza's question     
 D064                                                                                
 ⇒Rank B, Rating 1688±100, max Rating 1688  
+note:  
+★文字列置換  
+std::regex_replace("検索対象文字列", std::regex("検索する正規表現"), "置換する文字");  
+regexをincludeすることが必要  
+
+### 20200530 answeing paiza's question     
+D156                                                                                  
+⇒Rank B, Rating 1689±100, max Rating 1689    
+
+
+
