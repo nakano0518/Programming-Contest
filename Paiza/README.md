@@ -413,5 +413,9 @@ regexをincludeすることが必要
 D156                                                                                  
 ⇒Rank B, Rating 1689±100, max Rating 1689    
 
+### 20200531 answeing paiza's question     
+D066                                                                                   
+⇒Rank B, Rating 1692±100, max Rating 1692    
+
 
 
