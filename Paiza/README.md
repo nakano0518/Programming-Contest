@@ -421,5 +421,11 @@ D066
 D100                                                                                     
 ⇒Rank B, Rating 1698±100, max Rating 1698   
 
+### 20200603 answeing paiza's question     
+D053                                                                                       
+⇒Rank B, Rating 1701±100, max Rating 1701   
+
+
+
 
 
