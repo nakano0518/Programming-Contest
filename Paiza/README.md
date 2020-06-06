@@ -431,7 +431,11 @@ D149
 
 ### 20200605 answeing paiza's question     
 D093                                                                                           
-⇒Rank B, Rating 1714±100, max Rating 1714 
+⇒Rank B, Rating 1714±100, max Rating 1714     
+
+### 20200606 answeing paiza's question     
+D122                                                                                             
+⇒Rank B, Rating 1717±100, max Rating 1717 
 
 
 
