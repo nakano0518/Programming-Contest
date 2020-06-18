@@ -440,6 +440,15 @@ D122
 ### 20200611 answeing paiza's question     
 D157                                                                                               
 ⇒Rank B, Rating 1720±100, max Rating 1720 
+note:  
+★べき乗 (xのy乗)  
+「math.h」をinclude    
+double pow(double x, double y);  
+  
+
+### 20200618 answeing paiza's question     
+D158                                                                                                 
+⇒Rank B, Rating 1721±100, max Rating 1721 
 
 
 
