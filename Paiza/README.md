@@ -448,7 +448,11 @@ double pow(double x, double y);
 
 ### 20200618 answeing paiza's question     
 D158                                                                                                 
-⇒Rank B, Rating 1721±100, max Rating 1721 
+⇒Rank B, Rating 1721±100, max Rating 1721   
+
+### 20200619 answeing paiza's question     
+D125                                                                                                   
+⇒Rank B, Rating 1725±100, max Rating 1725 
 
 
 
