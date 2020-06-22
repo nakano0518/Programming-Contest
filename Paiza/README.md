@@ -458,6 +458,10 @@ D125
 D114                                                                                                     
 ⇒Rank B, Rating 1727±100, max Rating 1727 
 
+### 20200620 answeing paiza's question     
+D062                                                                                                       
+⇒Rank B, Rating 1734±100, max Rating 1734 
+
 
 
 
