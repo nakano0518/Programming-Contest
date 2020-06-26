@@ -470,6 +470,16 @@ D119
 D044                                                                                                         
 ⇒Rank B, Rating 1742±100, max Rating 1742  
 
+### 20200626 answeing paiza's question     
+D124                                                                                                     
+⇒Rank B, Rating 1745±100, max Rating 1745   
+note:  
+●切り捨て: a/b  
+●切り上げ: (a+(b-1))/b  
+ただし、a,b は int型  
+
+
+
 
 
 
