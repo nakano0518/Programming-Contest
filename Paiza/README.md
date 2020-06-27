@@ -478,6 +478,10 @@ note:
 ●切り上げ: (a+(b-1))/b  
 ただし、a,b は int型  
 
+### 20200627 answeing paiza's question     
+D040                                                                                                       
+⇒Rank B, Rating 1747±100, max Rating 1747   
+
 
 
 
