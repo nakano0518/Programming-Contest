@@ -482,6 +482,10 @@ note:
 D040                                                                                                       
 ⇒Rank B, Rating 1747±100, max Rating 1747   
 
+### 20200629 answeing paiza's question     
+D155                                                                                                         
+⇒Rank B, Rating 1752±100, max Rating 1752   
+
 
 
 
