@@ -486,6 +486,10 @@ D040
 D155                                                                                                         
 ⇒Rank B, Rating 1752±100, max Rating 1752   
 
+### 20200630 answeing paiza's question     
+D007                                                                                                         
+⇒Rank B, Rating 1755±100, max Rating 1755   
+
 
 
 
